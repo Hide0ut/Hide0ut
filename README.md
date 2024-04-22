@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hide0ut
 - 👀 I’m interested in coding, games, tecnology
-- 🌱 I’m currently learning Python 3.
+- 🌱 I’m currently learning Python 3 with CodeAcademy.
 - 💞️ I’m looking to collaborate on python projects, and Jr. Python jobs.
 - 📫 How to reach me: joaopaulo.esiqueira@gmail.com
 
